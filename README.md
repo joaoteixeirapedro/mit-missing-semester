@@ -1,4 +1,4 @@
-# MIT — The Missing Semester of Your CS Education
+# MIT — The Missing Semester of Your CS Education 2026
 
 This repository documents my progress through MIT's
 The Missing Semester of Your CS Education.
@@ -14,13 +14,13 @@ The Missing Semester of Your CS Education.
 
 ## Progress
 
-- [x] Course 1 — The Shell
-- [ ] Course 2 — Shell Tools and Scripting
-- [ ] Course 3 — Editors (Vim)
-- [ ] Course 4 — Data Wrangling
-- [ ] Course 5 — Command-line Environment
-- [ ] Course 6 — Version Control (Git)
-- [ ] Course 7 — Debugging and Profiling
-- [ ] Course 8 — Metaprogramming
-- [ ] Course 9 — Security and Cryptography
-- [ ] Course 10 — Potpourri
+- [x] Lecture 1 — Course Overview + Introduction to the Shell
+- [x] Lecture 2 — Command-line Environment
+- [ ] Lecture 3 — Development Environment and Tools
+- [ ] Lecture 4 — Debugging and Profiling
+- [ ] Lecture 5 — Version Control and Git
+- [ ] Lecture 6 — Packaging and Shipping Code
+- [ ] Lecture 7 — Agentic Coding
+- [ ] Lecture 8 — Beyond the Code
+- [ ] Lecture 9 — Code Quality
+
