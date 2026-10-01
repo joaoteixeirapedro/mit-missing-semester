@@ -16,7 +16,7 @@ The Missing Semester of Your CS Education.
 
 - [x] Lecture 1 — Course Overview + Introduction to the Shell
 - [x] Lecture 2 — Command-line Environment
-- [ ] Lecture 3 — Development Environment and Tools
+- [x] Lecture 3 — Development Environment and Tools
 - [ ] Lecture 4 — Debugging and Profiling
 - [ ] Lecture 5 — Version Control and Git
 - [ ] Lecture 6 — Packaging and Shipping Code
