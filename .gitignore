@@ -1,0 +1,9 @@
+# Local editor and environment files
+.vscode/
+.idea/
+.venv/
+__pycache__/
+.env
+.env.*
+*.swp
+*~
